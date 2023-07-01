@@ -23,12 +23,14 @@ const Header = () => {
   return <>
   
   <Button 
-  top ={0}
+  zIndex={'overlay'}
+  top ={4}
   left={4}
   h={10}
   w={10}
   padding={0}
   margin={0}
+  position={'fixed'}
   borderRadius={'full'}
   colorScheme='teal' 
   onClick={onOpen}>

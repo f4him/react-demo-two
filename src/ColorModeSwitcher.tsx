@@ -16,9 +16,10 @@ export const ColorModeSwitcher: React.FC<ColorModeSwitcherProps> = (props) => {
 
   return (
     <IconButton
+      zIndex={'overlay'}
       variant="ghost"
       color="current"
-      position={'fixed'}
+      pos={'fixed'}
       top={'4'}
       right={'4'}
       onClick={toggleColorMode}

@@ -12,7 +12,7 @@ root.render(
   <React.StrictMode>
     <ColorModeScript />
     <ChakraProvider theme={theme}>
-      <ColorModeSwitcher top={0}/>
+      <ColorModeSwitcher/>
       <App />
     </ChakraProvider>
   </React.StrictMode>,
