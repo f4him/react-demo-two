@@ -8,7 +8,7 @@ This project is 2nd of the 5 basic projects I have done to learn react.
 
 Link To other projects:
 - [1st](https://github.com/f4him/react-demo-one) 
-- 2nd (this one) [Vercel Link](https://github.com/f4him/react-demo-two)
+- 2nd (this one) [Vercel Link](https://react-demo-two-nine.vercel.app)
 - 3rd
 - 4th
 - 5th
